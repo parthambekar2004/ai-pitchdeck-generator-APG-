@@ -2,6 +2,20 @@
 
 An AI-powered application that generates a one-page investment teaser using minimal founder input.
 
+## 🖥️ Application Screenshots
+
+### Signup / Input Page
+Founders provide basic company details used to generate the teaser.
+
+![Signup Page](signup.jpg)
+
+---
+
+### Generated Investment Teaser
+A one-page teaser with AI-generated content, logo, and market snapshot.
+
+![Teaser Deck](deck.jpg)
+
 ## Features
 - AI-generated market, company, product & investment sections
 - Public market stock snapshot (price + 30-day trend)
