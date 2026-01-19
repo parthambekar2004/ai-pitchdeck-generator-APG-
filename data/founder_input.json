@@ -1,0 +1,14 @@
+{
+  "company_name": "ABC Tech",
+  "industry": "Fintech",
+  "product": "Payments API for small and medium businesses",
+  "stage": "Early-stage",
+  "revenue_band": "<$1M",
+  "funding_raised": "$0.5M",
+  "funding_ask": "$2M",
+  "location": "India",
+  "deal_type": "Investment",
+  "team": [
+    { "name": "Parth", "role": "Founder & CEO" }
+  ]
+}
